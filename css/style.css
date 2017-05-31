@@ -1,16 +1,18 @@
 body {
   line-height: 1.5;
-  color: white;
-
+  color: black;
+  background: url(../images/seamless-paper-texture.png);
+/*  Small image full screen
   background-size: cover;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: fixed; */
 }
 
+/* Background pattern from subtlepatterns.com */
 .container {
-  width: 500px;
-  margin: 40px;
-  background: black;
+  width: 50%;
+  margin: auto;
+  background: rgba(255,255,255,0.8);
   padding: 15px;
 }
 
