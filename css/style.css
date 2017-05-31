@@ -2,7 +2,10 @@ body {
   line-height: 1.5;
   color: black;
 	font-family: monaco, Consolas, "Lucida Console", monospace;
+  text-align: center;
+
   background: url(../images/seamless-paper-texture.png);
+
 /*  Small image full screen
   background-size: cover;
   background-position: center;
@@ -12,7 +15,7 @@ body {
 /* Background pattern from subtlepatterns.com */
 .container {
   width: 50%;
-  margin: auto;
+  margin: 0 auto;
   background: rgba(255,255,255,0.5);
   padding: 15px;
   border-radius: 10px;
