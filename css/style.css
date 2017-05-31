@@ -1,5 +1,6 @@
 body {
   line-height: 1.5;
+  color: white;
 
   background-size: cover;
   background-position: center;
@@ -9,4 +10,14 @@ body {
 .container {
   width: 500px;
   margin: 40px;
+  background: black;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+a {
+  text-decoration: none;
 }
